@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Auction Studio" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.auctionstudio.Main" />
+    <module name="appdaugiatest" />
+    <option name="VM_PARAMETERS" value="--module-path $PROJECT_DIR$/javafx-lib --add-modules javafx.controls --enable-native-access=javafx.graphics" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
