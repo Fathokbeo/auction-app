@@ -4,6 +4,7 @@ dist/
 release/
 .jpackage/
 tools/
+auction-app/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
